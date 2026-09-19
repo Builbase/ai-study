@@ -1,0 +1,7 @@
+# マスク前の原本は共有しない
+images/raw/
+# 生成物（PDF/HTMLは残し、PNG連番と一覧は除外）
+build/png/
+build/sheet/
+build/share/
+.DS_Store
