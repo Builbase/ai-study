@@ -5,3 +5,5 @@ build/png/
 build/sheet/
 build/share/
 .DS_Store
+# セッション引き継ぎ（ローカル専用）
+.claude/session-log.md
