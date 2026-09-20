@@ -54,14 +54,18 @@ author: seiji
 <div class="seg g" style="flex:5"><b>5分</b>次回</div>
 </div>
 
-<div class="row c2">
+<div class="row c3">
 <div class="card flat">
 <div class="t">各ツール2テーマに絞る</div>
-<div class="d">網羅より、明日から使える操作を優先。<br>時間が余れば3つ目へ</div>
+<div class="d">明日から使える操作を優先。<br>時間が余れば3つ目へ</div>
 </div>
 <div class="card flat">
 <div class="t">自分の端末で操作する</div>
 <div class="d">5人×2グループ。<br>隣と確認しながら進める</div>
+</div>
+<div class="card flat">
+<div class="t">質問はいつでも</div>
+<div class="d">気になったところは、その場で。<br>各ツールの最後に、使っている人の話も聞く</div>
 </div>
 </div>
 </div>
@@ -171,6 +175,7 @@ author: seiji
 <div class="s"><i></i><div>隣の人の提案を承認する<small>✓を押した側が「反映した人」になる</small></div></div>
 <div class="s"><i></i><div>@で今日の日付チップを入れる</div></div>
 </div>
+<p class="note" style="margin-top: 14px;">演習のあとに2分: 普段から使っている人に、実務での使い方をひとこと聞く</p>
 </div>
 
 ---
@@ -325,6 +330,7 @@ author: seiji
 <div class="s"><i></i><div>主催者が提案を承認する。全員の予定が変わったか見る</div></div>
 <div class="s"><i></i><div>ゲストが繰り返しを「2週間ごと」に変えようとしてみる<small>変えられないことを確かめてから、主催者が変える</small></div></div>
 </div>
+<p class="note" style="margin-top: 14px;">演習のあとに2分: 普段から使っている人に、実務での使い方をひとこと聞く</p>
 </div>
 
 ---
@@ -344,7 +350,7 @@ author: seiji
 
 <div class="split">
 <div class="pts">
-<div class="pt"><b>録画</b><span>会議ツール→録画。<br>使えるかはプランによる。<br>保存先はドライブの「Meet Recordings」</span></div>
+<div class="pt"><b>録画</b><span>会議ツール→録画。<br>保存先はドライブの「Meet Recordings」。<br>押せないときは管理者設定で有効にする</span></div>
 <div class="pt"><b>字幕</b><span>下のバーの「CC」。<br>自分の画面だけに出る</span></div>
 <div class="pt warn"><b>Geminiの会議メモ</b><span>カレンダーの予定で「Geminiを使用して会議メモを作成する」をオン。<br>要約は人が確認する</span></div>
 </div>
@@ -385,6 +391,7 @@ author: seiji
 <div class="s"><i></i><div>1人が「画面全体」で共有し、違いを見る</div></div>
 <div class="s"><i></i><div>講師が録画・字幕・Geminiの会議メモの場所を見せる</div></div>
 </div>
+<p class="note" style="margin-top: 14px;">演習のあとに2分: 普段から使っている人に、実務での使い方をひとこと聞く</p>
 </div>
 
 ---
