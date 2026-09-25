@@ -37,7 +37,9 @@
 - 生成された文はそのまま確定にしない。人が読んでから使う。
 
 ### 演習1（10分）
-- サンプル文書を講師が共有。まず自分の権限を確かめる。
+- サンプル文書（演習用A / 演習用B）を講師が共有。グループごとに別の文書を使う。まず自分の権限が「編集者」か確かめる。
+  - A: https://docs.google.com/document/d/1G9Y7a5K6JOmOV83FHfJrPlVL6HMbyrRMcvGqSrXcPs8/edit
+  - B: https://docs.google.com/document/d/15VpPsrl5dygJEDfrYblUpQHF6bfvNCN5w2BsflupDfw/edit
 - コメント→提案→隣の提案を承認→日付チップ、の順。
 
 ## 2. Googleカレンダー（25分）
